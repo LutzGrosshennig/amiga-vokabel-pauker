@@ -1,2 +1,5 @@
-# amiga-vokabel-pauker
-A simplistic vocabulary trainer on the Amiga I wrote for my self teaching purposes.
+# Vokabel - Pauker
+
+A simplistic vocabulary trainer for the Amiga written around 1987.
+I wrote and used it for my own purposes (and to improve my coding knowledge).
+
